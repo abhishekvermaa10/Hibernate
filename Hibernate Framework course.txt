@@ -1,0 +1,19 @@
+Hibernate Framework
+Demo0 - CRUD using JDBC
+Demo1 - CRUD using Hibernate
+Demo2 - Primary Key using Identity generation
+Demo3 - Primary Key using Auto generation
+Demo4 - Primary Key using UUID generation
+Demo5 - Composite Primary Key 
+Demo6 - One-to-One Mapping
+Demo7 - Many-to-One Mapping
+Demo8 - Many-to-Many Mapping
+Demo9 - Single Table Inheritance
+Demo10 - Joined Inheritance
+Demo11 - Table Per Class Inheritance
+Demo12 - CRUD with HQL
+Demo13 - More with HQL
+Demo14 - Criteria API
+Demo15 - First Level Caching 
+Demo16 - Second Level Caching 
+Capstone Project
