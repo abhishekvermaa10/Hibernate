@@ -7,7 +7,7 @@
   <h3 style="text-align: left;">Table of Contents</h3>
   <hr>
   <ol style="text-align: left;">
-    <li></li>
+    <li>CRUD operations using JDBC</li>
   </ol>
 
   <h3 style="text-align: left;">Pre-Requisite</h3>
@@ -25,7 +25,7 @@
   <h3 style="text-align: left;">YouTube Tutorial</h3>
   <hr>
   <p style="text-align: left;">
-    Demos have been explained in an easy way on my YouTube channel <a href="https://www.youtube.com/@ScaleUpIndia?sub_confirmation=1" target="_blank">ScaleUp India</a>. Link for the video is <a href="https://www.youtube.com/playlist?list=PLJDwhlqmpSfMNgiOg0xyg4hVsPcJUh4jE" target="_blank">Hibernate</a>.
+    Demos have been explained in an easy way on my YouTube channel <a href="https://www.youtube.com/@ScaleUpIndia?sub_confirmation=1" target="_blank">ScaleUp India</a>. Link for the video is <a href="https://www.youtube.com/playlist?list=PLJDwhlqmpSfNYPqMMqNj7DXl41fnTVJuY" target="_blank">Hibernate</a>.
   </p>
 
   <h3 style="text-align: left;">Connect with me</h3>
