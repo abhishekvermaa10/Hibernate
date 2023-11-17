@@ -1,1 +1,2 @@
 Demo0 - CRUD operations using JDBC
+Demo1 - Configuring Hibernate

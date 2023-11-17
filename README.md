@@ -8,6 +8,7 @@
   <hr>
   <ol style="text-align: left;">
     <li>CRUD operations using JDBC</li>
+	<li>Configuring Hibernate</li>
   </ol>
 
   <h3 style="text-align: left;">Pre-Requisite</h3>
