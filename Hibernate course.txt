@@ -1,3 +1,4 @@
 Demo0 - CRUD operations using JDBC
 Demo1 - Configuring Hibernate
 Demo2 - CRUD operations using Hibernate
+Demo3 - Primary Key using AUTO strategy
