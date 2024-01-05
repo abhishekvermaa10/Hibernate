@@ -5,3 +5,4 @@ Demo3 - Primary Key using AUTO strategy
 Demo4 - Primary Key using IDENTITY strategy
 Demo5 - Primary Key using UUID strategy
 Demo6 - Composite Primary Key
+Demo7 - Natural Id

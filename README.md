@@ -14,6 +14,7 @@
 	<li>Primary Key using IDENTITY strategy</li>
 	<li>Primary Key using UUID strategy</li>
 	<li>Composite Primary Key</li>
+	<li>Natural Id</li>
   </ol>
 
   <h3 style="text-align: left;">Pre-Requisite</h3>
