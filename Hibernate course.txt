@@ -6,3 +6,4 @@ Demo4 - Primary Key using IDENTITY strategy
 Demo5 - Primary Key using UUID strategy
 Demo6 - Composite Primary Key
 Demo7 - Natural Id
+Demo8 - One-to-One Mapping
