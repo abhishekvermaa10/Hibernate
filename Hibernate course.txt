@@ -7,3 +7,4 @@ Demo5 - Primary Key using UUID strategy
 Demo6 - Composite Primary Key
 Demo7 - Natural Id
 Demo8 - One-to-One Mapping
+Demo9 - One-to-One Bidirectional Mapping
