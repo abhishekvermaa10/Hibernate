@@ -37,7 +37,9 @@ public class OwnerRepositoryImpl implements OwnerRepository {
 	public Owner findOwnerWithPet(int ownerId) {
 		try (Session session = sessionFactory.openSession()) {
 			Owner owner = session.get(Owner.class, ownerId);
-			Hibernate.initialize(owner.getPet());
+			if (Objects.nonNull(owner)) {
+				Hibernate.initialize(owner.getPet());
+			}
 			return owner;
 		}
 	}
