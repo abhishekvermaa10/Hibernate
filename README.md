@@ -17,6 +17,7 @@
 	<li>Natural Id</li>
 	<li>One-to-One Mapping</li>
 	<li>One-to-One Bidirectional Mapping</li>
+	<li>Eager Loading vs Lazy Loading</li>
   </ol>
 
   <h3 style="text-align: left;">Pre-Requisite</h3>
