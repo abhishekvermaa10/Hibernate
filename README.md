@@ -19,6 +19,7 @@
 	<li>One-to-One Bidirectional Mapping</li>
 	<li>Eager Loading vs Lazy Loading</li>
 	<li>One-to-Many Mapping and Many-to-One Mapping</li>
+	<li>Many-to-Many Mapping</li>
   </ol>
 
   <h3 style="text-align: left;">Pre-Requisite</h3>
