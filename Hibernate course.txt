@@ -11,3 +11,4 @@ Demo9 - One-to-One Bidirectional Mapping
 Demo10 - Eager Loading vs Lazy Loading
 Demo11 - One-to-Many Mapping and Many-to-One Mapping
 Demo12 - Many-to-Many Mapping
+Demo13 - Single Table Inheritance
