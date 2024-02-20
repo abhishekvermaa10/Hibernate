@@ -22,6 +22,7 @@
 	<li>Many-to-Many Mapping</li>
 	<li>Single Table Inheritance</li>
 	<li>Joined Inheritance</li>
+	<li>Table Per Class Inheritance</li>
   </ol>
 
   <h3 style="text-align: left;">Pre-Requisite</h3>
