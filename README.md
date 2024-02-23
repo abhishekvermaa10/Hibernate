@@ -23,6 +23,7 @@
 	<li>Single Table Inheritance</li>
 	<li>Joined Inheritance</li>
 	<li>Table Per Class Inheritance</li>
+	<li>MappedSuperClass</li>
   </ol>
 
   <h3 style="text-align: left;">Pre-Requisite</h3>

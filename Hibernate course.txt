@@ -14,3 +14,4 @@ Demo12 - Many-to-Many Mapping
 Demo13 - Single Table Inheritance
 Demo14 - Joined Inheritance
 Demo15 - Table Per Class Inheritance
+Demo16 - MappedSuperClass
