@@ -24,6 +24,7 @@
 	<li>Joined Inheritance</li>
 	<li>Table Per Class Inheritance</li>
 	<li>MappedSuperClass</li>
+	<li>Introduction to HQL</li>
   </ol>
 
   <h3 style="text-align: left;">Pre-Requisite</h3>
