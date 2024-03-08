@@ -25,6 +25,7 @@
 	<li>Table Per Class Inheritance</li>
 	<li>MappedSuperClass</li>
 	<li>Introduction to HQL</li>
+	<li>Solution to N+1 Problem</li>
   </ol>
 
   <h3 style="text-align: left;">Pre-Requisite</h3>

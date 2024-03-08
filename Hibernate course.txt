@@ -16,3 +16,4 @@ Demo14 - Joined Inheritance
 Demo15 - Table Per Class Inheritance
 Demo16 - MappedSuperClass
 Demo17 - Introduction to HQL
+Demo18 - Solution to N+1 Problem
