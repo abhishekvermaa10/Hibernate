@@ -27,6 +27,7 @@
 	<li>Introduction to HQL</li>
 	<li>Solution to N+1 Problem</li>
 	<li>Complex Queries with HQL</li>
+	<li>Hibernate Criteria API</li>
   </ol>
 
   <h3 style="text-align: left;">Pre-Requisite</h3>
