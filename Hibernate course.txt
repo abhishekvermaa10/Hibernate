@@ -20,3 +20,4 @@ Demo18 - Solution to N+1 Problem
 Demo19 - Complex Queries with HQL
 Demo20 - Hibernate Criteria API
 Demo21 - Hibernate Entity Lifecycle
+Demo22 - Primary Cache

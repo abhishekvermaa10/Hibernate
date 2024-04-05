@@ -29,6 +29,7 @@
 	<li>Complex Queries with HQL</li>
 	<li>Hibernate Criteria API</li>
 	<li>Hibernate Entity Lifecycle</li>
+	<li>Primary Cache</li>
   </ol>
 
   <h3 style="text-align: left;">Pre-Requisite</h3>
