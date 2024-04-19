@@ -22,3 +22,4 @@ Demo20 - Hibernate Criteria API
 Demo21 - Hibernate Entity Lifecycle
 Demo22 - Primary Cache
 Demo23 - Secondary Cache
+Demo24 - Configuring JPA

@@ -31,6 +31,7 @@
 	<li>Hibernate Entity Lifecycle</li>
 	<li>Primary Cache</li>
 	<li>Secondary Cache</li>
+	<li>Configuring JPA</li>
   </ol>
 
   <h3 style="text-align: left;">Pre-Requisite</h3>
