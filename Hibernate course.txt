@@ -23,3 +23,4 @@ Demo21 - Hibernate Entity Lifecycle
 Demo22 - Primary Cache
 Demo23 - Secondary Cache
 Demo24 - Configuring JPA
+Demo25 - CRUD operations using JPA
