@@ -53,8 +53,8 @@
     Before diving into Hibernate, ensure you're comfortable with the following concepts:
 <ul>
     <li>Java</li>
-    <li>Maven</li>
     <li>Java Database Connectivity (JDBC)</li>
+	<li>Maven</li>
 </ul>
 You can learn these topics from my YouTube channel through dedicated playlists.
 </p>
