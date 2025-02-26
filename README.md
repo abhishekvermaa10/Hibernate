@@ -95,59 +95,66 @@ You can learn these topics from my YouTube channel through dedicated playlists.
 <hr>
 
 <h3 align="left">🌐 Connect with me</h3>
-<p align="left">
+<div align="left">
+    <a href="https://abhishekvermaa10.github.io" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=My Website&logo=internet-explorer&label=&color=6A5ACD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Website" />
+    </a>
     <a href="https://www.youtube.com/@abhishekvermaa10" target="_blank">
-        <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/YouTube.svg" alt="YouTube" height="30" width="40" />
-    </a> &nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
+    </a>
     <a href="https://linkedin.com/in/abhishekvermaa10" target="_blank">
-        <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/LinkedIn.svg" alt="LinkedIn" height="30" width="40" />
-    </a> &nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+    </a>
     <a href="https://instagram.com/abhishekvermaa10" target="_blank">
-        <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/Instagram.svg" alt="Instagram" height="30" width="40" />
-    </a> &nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram />
+    </a>
     <a href="https://x.com/ytabhishekverma" target="_blank">
-        <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/X.svg" alt="X" height="30" width="40" />
-    </a> &nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X" />
+    </a>
+  <a href="https://topmate.io/abhishekvermaa10" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Topmate&logo=topmate&label=&color=FF6347&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Topmate" />
+  </a>
     <a href="https://github.com/abhishekvermaa10" target="_blank">
-        <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/GitHub.svg" alt="GitHub" height="30" width="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://topmate.io/abhishekvermaa10" target="_blank">
-        <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/TopMate.svg" alt="TopMate" height="30" width="40" />
-    </a> &nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
+    </a>
     <a href="mailto:scaleupindiayt@gmail.com">
-        <img align="center" src="https://github.com/abhishekvermaa10/Logos/blob/main/GMail.svg" alt="GMail" height="30" width="40" />
-    </a> &nbsp;&nbsp;
-</p>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GMail" />
+    </a>
+</div>
 
 <hr>
 
 <h3 align="left">🛠️ Languages & Frameworks</h3>
-<p align="left">
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Java.svg" alt="Java" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://hibernate.org" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Hibernate.svg" alt="Hibernate" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-</p>
+<div align="left">
+<a href="https://www.java.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="70" alt="Java" />
+</a>
+<a href="https://hibernate.org" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" height="70" alt="Hibernate"  />
+</a>          
+</div>
 
 <hr>
 
 <h3 align="left">🖥️ Software & Tools</h3>
-<p align="left">
-    <a href="https://www.oracle.com/in/java/technologies/downloads" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/JDK.svg" alt="JDK" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://www.eclipse.org/downloads" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Eclipse.svg" alt="Eclipse" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://dev.mysql.com/downloads" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/MySQL.svg" alt="MySQL" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://dbeaver.io/download" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/DBeaver.svg" alt="DBeaver" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-    <a href="https://git-scm.com/downloads" target="_blank">
-        <img src="https://github.com/abhishekvermaa10/Logos/blob/main/Git.svg" alt="Git" width="40" height="40" />
-    </a> &nbsp;&nbsp;
-</p>
+<div align="left">
+<a href="https://www.oracle.com/in/java/technologies/downloads" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="Java" />
+</a>
+<a href="https://www.eclipse.org/downloads" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="50" alt="Eclipse" />
+</a>
+<a href="https://dev.mysql.com/downloads" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+</a>
+<a href="https://dbeaver.io/download" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="50" alt="DBeaver" />
+</a>
+<a href="https://git-scm.com/downloads" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git" /> 
+</a>   
+</div>
+
+<hr>
+
+<div align="center">Copyright © 2025 Abhishek Verma - All Rights Reserved</div>
